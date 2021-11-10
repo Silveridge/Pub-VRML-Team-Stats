@@ -726,8 +726,6 @@ class MainWindow(object):
         for i in range(0, len(self.players)):
             if self.players[i] == "":
                 self.players[i] = "N/A"
-            print("Name: " + self.players[i])
-        print(self.players)
         self.multithreadWorker = multithreadVRMLSearch(self.players)
         self.threadpool.start(self.multithreadWorker)
         self.retranslateUi(Widget)
