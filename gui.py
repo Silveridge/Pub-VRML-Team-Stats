@@ -8,7 +8,7 @@ import threading
 import re
 import webbrowser
 __version__ = "1.1.0"
-__beta__ = True
+__beta__ = False
 
 
 class MainWindow(object):
