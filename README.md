@@ -1,5 +1,9 @@
 # VRML Team Stat Searcher
 
+## Retired
+Unfortunately, this archive is being archived and retired due to Echo VR's tragic shutdown.
+
+## Tool Description
 **Thankyou to Silveridge for all your help  <33**
 
 Displays Team Name, Team Rank (Worldwide), and tier of all the players in your pubs.
